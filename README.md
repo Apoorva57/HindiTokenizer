@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apoorva57
 - 👀 I’m interested in expanding my skill sets.
 - 🌱 I’m currently pursuing B.Tech in computer science.
-- 💞️ I’m looking to collaborate on innovative and thoughtful projects
+- 💞️ I’m looking to collaborate on innovative and thoughtful projects.
 - 📫 Reach out to me anytime.
 
 <!---
