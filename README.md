@@ -9,7 +9,8 @@
 
 ---
 # About Me: A Student, Learner and Developer!
-<img align="right" src="https://im7.ezgif.com/tmp/ezgif-7-3f5698ae4f.gif"/>
+<img align="right" src="https://user-images.githubusercontent.com/97695341/149590270-7be21eea-6e76-4fbe-96a6-853540d79c60.gif"/>
+
   
 * #### Currently pursuing B.Tech in computer science.
 * #### Interested in expanding my skill sets in technical fields.
