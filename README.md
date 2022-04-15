@@ -16,7 +16,6 @@
 * #### Interested in expanding my skill sets in technical fields.
 * #### I am a budding developer acquiring new skills on a daily. 
 * #### Interested in contributing to the open-source community and look forward to working on projects. 
-* #### Lastly, I have a keen interest in AI-ML. 
 --- 
 # Fun Facts/Hobbies :
 <img align="right" src="https://user-images.githubusercontent.com/97695341/149574638-bdef4f80-0d1c-4b75-8a27-cbb69e55211f.gif"/>
